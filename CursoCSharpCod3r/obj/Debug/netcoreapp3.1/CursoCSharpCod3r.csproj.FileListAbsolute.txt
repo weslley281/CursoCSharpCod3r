@@ -1,0 +1,14 @@
+C:\Users\Wesll\OneDrive\Cod3r\CursoCSharpCod3r\CursoCSharpCod3r\obj\Debug\netcoreapp3.1\CursoCSharpCod3r.csproj.AssemblyReference.cache
+C:\Users\Wesll\OneDrive\Cod3r\CursoCSharpCod3r\CursoCSharpCod3r\obj\Debug\netcoreapp3.1\CursoCSharpCod3r.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesll\OneDrive\Cod3r\CursoCSharpCod3r\CursoCSharpCod3r\obj\Debug\netcoreapp3.1\CursoCSharpCod3r.AssemblyInfoInputs.cache
+C:\Users\Wesll\OneDrive\Cod3r\CursoCSharpCod3r\CursoCSharpCod3r\obj\Debug\netcoreapp3.1\CursoCSharpCod3r.AssemblyInfo.cs
+C:\Users\Wesll\OneDrive\Cod3r\CursoCSharpCod3r\CursoCSharpCod3r\obj\Debug\netcoreapp3.1\CursoCSharpCod3r.csproj.CoreCompileInputs.cache
+C:\Users\Wesll\OneDrive\Cod3r\CursoCSharpCod3r\CursoCSharpCod3r\bin\Debug\netcoreapp3.1\CursoCSharpCod3r.exe
+C:\Users\Wesll\OneDrive\Cod3r\CursoCSharpCod3r\CursoCSharpCod3r\bin\Debug\netcoreapp3.1\CursoCSharpCod3r.deps.json
+C:\Users\Wesll\OneDrive\Cod3r\CursoCSharpCod3r\CursoCSharpCod3r\bin\Debug\netcoreapp3.1\CursoCSharpCod3r.runtimeconfig.json
+C:\Users\Wesll\OneDrive\Cod3r\CursoCSharpCod3r\CursoCSharpCod3r\bin\Debug\netcoreapp3.1\CursoCSharpCod3r.runtimeconfig.dev.json
+C:\Users\Wesll\OneDrive\Cod3r\CursoCSharpCod3r\CursoCSharpCod3r\bin\Debug\netcoreapp3.1\CursoCSharpCod3r.dll
+C:\Users\Wesll\OneDrive\Cod3r\CursoCSharpCod3r\CursoCSharpCod3r\bin\Debug\netcoreapp3.1\CursoCSharpCod3r.pdb
+C:\Users\Wesll\OneDrive\Cod3r\CursoCSharpCod3r\CursoCSharpCod3r\obj\Debug\netcoreapp3.1\CursoCSharpCod3r.dll
+C:\Users\Wesll\OneDrive\Cod3r\CursoCSharpCod3r\CursoCSharpCod3r\obj\Debug\netcoreapp3.1\CursoCSharpCod3r.pdb
+C:\Users\Wesll\OneDrive\Cod3r\CursoCSharpCod3r\CursoCSharpCod3r\obj\Debug\netcoreapp3.1\CursoCSharpCod3r.genruntimeconfig.cache
