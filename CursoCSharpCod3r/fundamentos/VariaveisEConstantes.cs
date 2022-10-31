@@ -27,6 +27,13 @@ namespace CursoCSharpCod3r.Fundamentos {
 
             int menorValorInt = int.MinValue;
             Console.WriteLine("O menor valor de Int: " + menorValorInt);
+
+            uint valorUint = uint.MaxValue;
+            Console.WriteLine("Valor máximo do uint: " + valorUint);
+
+            long valorLong = long.MinValue;
+            Console.WriteLine("Valor mínimo do long: " + valorLong);
+
         }
     }
 }
