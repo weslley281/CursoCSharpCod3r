@@ -7,8 +7,6 @@ namespace CursoCSharpCod3r.Fundamentos {
         public static void Executar() {
             var nome = "Weslley Ferraz";
             Console.WriteLine(nome);
-
-            
         }
     }
 }
