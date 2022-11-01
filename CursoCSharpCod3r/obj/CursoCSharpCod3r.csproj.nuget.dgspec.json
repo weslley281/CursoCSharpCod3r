@@ -1,31 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wesll\\OneDrive\\Cod3r\\CursoCSharpCod3r\\CursoCSharpCod3r\\CursoCSharpCod3r.csproj": {}
+    "C:\\Users\\Wesll\\Documents\\apps\\CursoCSharpCod3r\\CursoCSharpCod3r\\CursoCSharpCod3r.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wesll\\OneDrive\\Cod3r\\CursoCSharpCod3r\\CursoCSharpCod3r\\CursoCSharpCod3r.csproj": {
+    "C:\\Users\\Wesll\\Documents\\apps\\CursoCSharpCod3r\\CursoCSharpCod3r\\CursoCSharpCod3r.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wesll\\OneDrive\\Cod3r\\CursoCSharpCod3r\\CursoCSharpCod3r\\CursoCSharpCod3r.csproj",
+        "projectUniqueName": "C:\\Users\\Wesll\\Documents\\apps\\CursoCSharpCod3r\\CursoCSharpCod3r\\CursoCSharpCod3r.csproj",
         "projectName": "CursoCSharpCod3r",
-        "projectPath": "C:\\Users\\Wesll\\OneDrive\\Cod3r\\CursoCSharpCod3r\\CursoCSharpCod3r\\CursoCSharpCod3r.csproj",
+        "projectPath": "C:\\Users\\Wesll\\Documents\\apps\\CursoCSharpCod3r\\CursoCSharpCod3r\\CursoCSharpCod3r.csproj",
         "packagesPath": "C:\\Users\\Wesll\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wesll\\OneDrive\\Cod3r\\CursoCSharpCod3r\\CursoCSharpCod3r\\obj\\",
+        "outputPath": "C:\\Users\\Wesll\\Documents\\apps\\CursoCSharpCod3r\\CursoCSharpCod3r\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Wesll\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -48,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
